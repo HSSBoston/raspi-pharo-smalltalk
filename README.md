@@ -1,2 +1,2 @@
 # raspi-pharo-smalltalk
-Using Raspberry Pi with Smalltalk
+Using Raspberry Pi with Pharo Smalltalk
